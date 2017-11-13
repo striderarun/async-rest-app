@@ -48,6 +48,7 @@
 	</dependencies>
 	
 	<build>
+		<finalName>async-rest-app</finalName>
 		<plugins>
 			<plugin>
 				<groupId>org.springframework.boot</groupId>
